@@ -5,7 +5,7 @@
 
 <script>
 import Homeheader from "./components/Header"
-export default s{
+export default {
     name: "Header",
     components:{
         Homeheader:Homeheader,
